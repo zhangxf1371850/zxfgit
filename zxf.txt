@@ -1,0 +1,105 @@
+\\10.0.127.231\融媒体版本重要\研发使用区域\开发工具   admin  root_123
+
+
+
+svn://10.0.193.110/U-RMPP/V1.0/trunk/V3.0     账户密码都是zhangxuefang
+
+员工编号 100548
+关爱通 zxf12345
+http://106.38.99.197:8888/  100548  zxf123
+http://mail.shineon.cc/    Zxf1234
+
+
+Git 地址   用户名@10.0.127.234:/usr/git/shineon   密码  shineon1234
+
+
+张学芳git项目       https://github.com/zhangxf1371850/zxfgit.git
+(https://blog.csdn.net/m0_37725003/article/details/80904824 )
+
+
+http://10.0.192.110/uauth/
+
+http://caibaojian.com/canvas/7.html
+https://github.com/sutianbinde/charts/blob/master/折线图.html
+http://www.jq22.com/jquery-info15421 计时器不刷新
+https://blog.csdn.net/song_mou_xia/article/details/80763833  设计模式
+https://tinypng.com/ 图片压缩
+
+https://www.cnblogs.com/dalaoban/p/9498218.html dom
+
+https://www.cnblogs.com/aimee2004/p/7028793.html
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date/UTC
+
+http://www.mytju.com/classcode/tools/encode_utf8.asp  查看字符编码
+https://antv.alipay.com/zh-cn/index.html#__products   G2 and G6
+
+https://www.cnblogs.com/moqiutao/p/6276826.html   IE中使用的是obj.currentStyle方法，而FF是用的是getComputedStyle 方法 
+https://blog.csdn.net/qq_42089654/article/details/80515916   JS中的位置和宽度：clientWidth、offsetWidth、scrollWidth等区别
+
+https://blog.csdn.net/fb408487792/article/details/41278763   jQuery中data([key],[value])和jQuery.data(element,[key],[value])区别
+
+
+https://segmentfault.com/a/1190000008927274  $.data()和$().data()
+
+
+1.最通俗易懂的MVVM原理
+链接：https://pan.baidu.com/s/1FidCaXdgO4JX-7dxOhPj3Q
+提取码：ibbv
+
+2.vue之封装自己的树组件
+链接：https://pan.baidu.com/s/1KggzanfhJpkeaED8Ju2O4w
+提取码：x2qs
+
+3.Vue单元测试最佳实践
+链接：https://pan.baidu.com/s/1Fh0TJTMOxhuKteCamKC9MA
+提取码：x0hh
+
+4.vue之封装自己的日历组件-高级篇
+链接：https://pan.baidu.com/s/1bwwjaboe11M78LPX4HaD2w
+提取码：j4dp
+
+珠峰架构公开课(Vue篇)
+链接：https://pan.baidu.com/s/10JZ91cKchpiTDql30ijYfQ
+提取码：fzyx
+
+珠峰架构公开课(React篇)
+链接：https://pan.baidu.com/s/1l1-OmuaQeP475Rrpi-ipfA
+提取码：47a7
+
+
+手写Vue3.0响应式源码公开课的课件源码与录播均已上传。
+
+链接:https://pan.baidu.com/s/1uc1I3GhYirw7Jbmupsi5Lw  密码:b21m
+
+
+一种是一个函数：$.fn.函数名 = function([options]){}
+另外一种自然是可以多个函数：$.fn.extend({函数名:function(){}});
+第一种真能一次搞一个函数，而第二个可以一次声明多个函数
+
+https://www.runoob.com/w3cnote/jquery-10-skill.html   插件注意点
+https://blog.csdn.net/zhang__ao/article/details/79637583
+
+https://blog.csdn.net/lgh2626/article/details/7951159  draggable.js源码分析
+
+
+var a = 元素本身的宽度；
+
+width() = a；
+
+innerWidth() = a+padding;
+
+outerWidth() = a+padding+border;
+
+outerWidth(true) = a+padding+border+margin;
+
+所以说：对于同一个元素应该是：
+width()<=innerWidth()<=outerWidth()<=outerWidth(true);
+
+undefined!= false    true
+
+
+
+
+
+
+ 
